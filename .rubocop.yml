@@ -1,0 +1,17 @@
+AllCops:
+  Exclude:
+    # Ignore generated file
+    - '*.gemspec'
+    - 'lib/lita-knife.rb'
+
+Metrics/LineLength:
+  Enabled: false
+
+Style/AlignHash:
+  Enabled: false
+
+Style/EmptyLinesAroundClassBody:
+  EnforcedStyle: empty_lines
+
+StringLiterals:
+  EnforcedStyle: double_quotes
