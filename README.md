@@ -4,7 +4,7 @@ Port of [hubot-chef](https://github.com/hubot-scripts/hubot-chef).
 
 ## Installation
 
-Add lita-thing to your Lita instance's Gemfile:
+Add lita-knife to your Lita instance's Gemfile:
 
 ``` ruby
 gem "lita-knife"
@@ -13,3 +13,7 @@ gem "lita-knife"
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
+
+
+## Note
+Work in progress.
